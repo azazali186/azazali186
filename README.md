@@ -1,4 +1,4 @@
-# Hi there 👋 I am Ali Azaz
+# Hi 👋 I am Ali Azaz
 
 ## Senior Full Stack Developer
 
