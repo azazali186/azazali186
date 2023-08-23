@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Phnom Penh , Cambodia
-- 🌱 I’m currently learning Fluter and Nest JS
+- 🌱 I’m currently learning Blockchain and Arbitrage
 - 👯 I’m looking to collaborate on other developers
 - ⚡ Fun fact: I love to learn new Technologies.
 
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 |-----:|---------------|------|---------------|------|---------------|------|---------------|
 |     1| Node Js       |     2| React Js      |     3| Nest Js       |     4| PHP Laravel   |
 |     5| Express Js    |     6| MongoDB       |     7| Next Js       |     8| MYSQL         |
-|     9| RabbitMQ      |    10| Kafka         |    11| TypeORM       |    12| Prizma        |
+|     9| RabbitMQ      |    10| Kafka         |    11| TypeORM       |    12| Prizma 
+|    13| Flutter       |    14| Arbitrage     |
 
  
 ## Connect with me : 
