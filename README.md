@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Phnom Penh , Cambodia
+- 🔭 I’m currently working in Phnom Penh , Cambodia
 - 🌱 I’m currently learning Fluter and Nest JS
 - 👯 I’m looking to collaborate on other developers
 - ⚡ Fun fact: I love to learn new Technologies.
