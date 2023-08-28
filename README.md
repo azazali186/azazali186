@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 |-----:|---------------|------|---------------|------|---------------|------|---------------|
 |     1| Node Js       |     2| React Js      |     3| Nest Js       |     4| PHP Laravel   |
 |     5| Express Js    |     6| MongoDB       |     7| Next Js       |     8| MYSQL         |
-|     9| RabbitMQ      |    10| Kafka         |    11| TypeORM       |    12| Prizma 
-|    13| Flutter       |    14| Arbitrage     |
+|     9| RabbitMQ      |    10| Kafka         |    11| TypeORM       |    12| Prizma        |
+|    13| Flutter       |    14| Arbitrage     |    15| Java          |    16| Spring Boot   |
 
  
 ## Connect with me : 
