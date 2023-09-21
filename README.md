@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Phnom Penh , Cambodia
-- 🌱 I’m currently learning GoLand and Go Gin Now
+- 🌱 I’m currently learning GoLang and Go Gin Now
 - 👯 I’m looking to collaborate on other developers
 - ⚡ Fun fact: I love to learn new Technologies.
 
