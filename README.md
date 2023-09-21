@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 |     5| Express Js    |     6| MongoDB       |     7| Next Js       |     8| MYSQL         |
 |     9| RabbitMQ      |    10| Kafka         |    11| TypeORM       |    12| Prizma        |
 |    13| Flutter       |    14| Arbitrage     |    15| Java          |    16| Spring Boot   |
+|    17| Microservice  |    18| Docker        |    19| Kubernates    |    20| VueJs         |
+|    21| Go Lang       |    22| GO GIN        |    23| PostGres      |    24| TimescaleDB   |
+|    25| Nuxt Js       |    26| Hibernate     |    27| JPA           |    28| Spring Cloud  |
 
  
 ## Connect with me : 
