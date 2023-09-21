@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
  
 ## Connect with me : 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/azaz-a-79bb78102/)
-
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/azaz-a-79bb78102/) [LinkedIn](https://www.linkedin.com/in/azaz-a-79bb78102/)
 
  
